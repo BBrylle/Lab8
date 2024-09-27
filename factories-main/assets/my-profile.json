@@ -1,0 +1,37 @@
+{
+  "biography": {
+    "name": "Barbara Yap Angeles",
+    "birth_date": "1907-12-04",
+    "early_life": {
+      "description": "Born during a Yuletide celebration, Barbara was a charming infant who quickly developed a reputation for her mathematics prowess and language proficiency.",
+      "high_school": {
+        "description": "Barbara graduated high school with honors and decided to pursue a degree in education."
+      }
+    },
+    "education": {
+      "degree": "Bachelor of Education",
+      "institution": "Centro Escolar de Senoritas",
+      "graduation_year": 1930
+    },
+    "founding_of_angeles_academy": {
+      "description": "With the support of her brother, Ildefonso, she founded the Angeles Academy in Pampanga, which opened on May 10, 1931, aimed at providing education to those with less in life but the potential for growth.",
+      "location": "Former Lourdes Elementary School site"
+    },
+    "challenges": {
+      "closure_of_academy": {
+        "year": 1933,
+        "reason": "Due to disloyalty from some staff members, the school was closed, which was a heartbreaking moment for Barbara."
+      }
+    },
+    "founding_of_angeles_institute_of_technology": {
+      "description": "After several years, Barbara re-established her educational vision by founding the Angeles Institute of Technology on May 25, 1962.",
+      "philanthropy": {
+        "description": "In response to a devastating fire that left many homeless, she and her husband offered free tuition and scholarships to help affected individuals.",
+        "impact": "This act of kindness endeared them to the community and established their legacy of benevolence."
+      }
+    },
+    "legacy": {
+      "description": "Barbara was a woman of wisdom and resilience, determined to provide quality education to deserving students regardless of their background."
+    }
+  }
+}
